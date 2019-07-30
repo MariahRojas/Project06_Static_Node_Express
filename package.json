@@ -1,0 +1,24 @@
+{
+  "name": "project6_static_node_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariahRojas/Project6_Static_Node_Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariahRojas/Project6_Static_Node_Express/issues"
+  },
+  "homepage": "https://github.com/MariahRojas/Project6_Static_Node_Express#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
