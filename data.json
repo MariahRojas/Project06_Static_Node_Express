@@ -3,48 +3,48 @@
     [
         {
             "id": 0,
-            "project-name": "Project01_Random_Quote_Generator",
-            "description":  "",
+            "project_name": "Random Quote Generator",
+            "description":  "This is the Random Quote ",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link":    "https://mariahrojas.github.io/Project01_Random_Quote_Generator/",
             "github_link": "https://github.com/MariahRojas/Project01_Random_Quote_Generator",
-            "image_urls":  []
+            "image_urls":  ["/static/images/Project01_RandomQuote.PNG"]
         },
         {
             "id": 1,
-            "project-name": "Project02_Filtering_Pagination",
+            "project_name": "Filtering & Pagination",
             "description": "",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://mariahrojas.github.io/Project02_Filtering_Pagination/",
             "github_link": "https://github.com/MariahRojas/Project02_Filtering_Pagination",
-            "image_urls": []
+            "image_urls": ["/static/images/Project02_Pagination.PNG"]
         },
         {
             "id": 2,
-            "project-name": "Project03_Interactive_Form",
+            "project_name": "Interactive Form",
             "description": "",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "https://mariahrojas.github.io/Project03_Interactive_Form/",
             "github_link": "https://github.com/MariahRojas/Project03_Interactive_Form",
-            "image_urls": []
+            "image_urls": ["/static/images/Project03_InteractiveForm.PNG"]
         },      
         {
             "id": 3,
-            "project-name": "Project04_OOP_Game",
+            "project_name": "OOP Game",
             "description": "",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "https://mariahrojas.github.io/Project04_OOP_Game/ ",
             "github_link": "https://github.com/MariahRojas/Project04_OOP_Game",
-            "image_urls": []
+            "image_urls": ["/static/images/Project04_OOPGame.PNG"]
         },
         {
             "id": 4,
-            "project-name": "Project05_API_Request",
+            "project_name": "API Request",
             "description": "",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Fetch"],
             "live_link": "https://mariahrojas.github.io/Project05_API_Request/",
             "github_link": "https://github.com/MariahRojas/Project05_API_Request",
-            "image_urls": []
+            "image_urls": ["/static/images/Project05_API.PNG"]
         }
     ]
 }
