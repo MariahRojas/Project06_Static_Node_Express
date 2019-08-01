@@ -4,47 +4,47 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description":  "This is the Random Quote ",
+            "description":  "This program displays a randomly selected quote each time the user clicks a button. Or a user can just sit back and have the quotes change for them.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link":    "https://mariahrojas.github.io/Project01_Random_Quote_Generator/",
             "github_link": "https://github.com/MariahRojas/Project01_Random_Quote_Generator",
-            "image_urls":  ["/static/images/Project01_RandomQuote.PNG"]
+            "image_urls":  ["/static/images/Project01_RandomQuote.PNG", "/static/images/Project01_RandomQuote01.PNG", "/static/images/Project01_RandomQuote02.PNG", "/static/images/Project01_RandomQuote03.PNG"]
         },
         {
             "id": 1,
             "project_name": "Filtering & Pagination",
-            "description": "",
+            "description": "In this dynamic program I made a list into a series of pages. Long lists can really overwhelm a user's experience.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://mariahrojas.github.io/Project02_Filtering_Pagination/",
             "github_link": "https://github.com/MariahRojas/Project02_Filtering_Pagination",
-            "image_urls": ["/static/images/Project02_Pagination.PNG"]
+            "image_urls": ["/static/images/Project02_Pagination.PNG", "/static/images/Project02_Pagination01.PNG", "/static/images/Project02_Pagination02.PNG", "/static/images/Project02_Pagintion03.PNG"]
         },
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "",
+            "description": "In this project I take a form and enhance it so that it’s engaging, interactive, and easy to use.",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "https://mariahrojas.github.io/Project03_Interactive_Form/",
             "github_link": "https://github.com/MariahRojas/Project03_Interactive_Form",
-            "image_urls": ["/static/images/Project03_InteractiveForm.PNG"]
+            "image_urls": ["/static/images/Project03_InteractiveForm.PNG", "/static/images/Project03_InteractiveForm01.PNG", "/static/images/Project03_InteractiveForm02.PNG", "/static/images/Project03_InteractiveForm03.PNG"]
         },      
         {
             "id": 3,
             "project_name": "OOP Game",
-            "description": "",
+            "description": "In this game a player tries to guess the phrase by selecting individual letters using an onscreen keyboard or simply a physical keyboard. Can they guess the phrase before they run out of attempts?",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
             "live_link": "https://mariahrojas.github.io/Project04_OOP_Game/ ",
             "github_link": "https://github.com/MariahRojas/Project04_OOP_Game",
-            "image_urls": ["/static/images/Project04_OOPGame.PNG"]
+            "image_urls": ["/static/images/Project04_OOPGame.PNG", "/static/images/Project04_OOPGame01.PNG", "/static/images/Project04_OOPGame02.PNG", "/static/images/Project04_OOPGame03.PNG"]
         },
         {
             "id": 4,
             "project_name": "API Request",
-            "description": "",
+            "description": "This is an employee directory I created by communicating with a third-party API.",
             "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Fetch"],
             "live_link": "https://mariahrojas.github.io/Project05_API_Request/",
             "github_link": "https://github.com/MariahRojas/Project05_API_Request",
-            "image_urls": ["/static/images/Project05_API.PNG"]
+            "image_urls": ["/static/images/Project05_API.PNG", "/static/images/Project05_API01.PNG", "/static/images/Project05_API02.PNG", "/static/images/Project05_API03.PNG"]
         }
     ]
 }
