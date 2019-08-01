@@ -26,6 +26,13 @@ app.get('/about', function (req, res) {
   res.render('about')
 })
 
+app.get("/project/:id", function(req, res, next){
+  const id = parseInt(req.params.id);
+  const project = projects[id];
+    if(Number.isInteger(id) && id < projects.length && id >= 0){
+      return res.render('project', { project });
+    }
+})
 
 /* Handle errors */
 // set error status when site is not found 
