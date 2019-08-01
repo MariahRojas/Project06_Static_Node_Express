@@ -1,0 +1,6 @@
+extends layout.pug
+
+block content
+    h1= `${error.message} | ${error.status}`
+    img.error(src=`/static/images/error_picture.png`)
+    p= error.stack
