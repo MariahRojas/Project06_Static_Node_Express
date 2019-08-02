@@ -4,7 +4,7 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description":  "This program displays a randomly selected quote each time the user clicks a button. Or a user can just sit back and have the quotes change for them.",
+            "description":  "This program displays a randomly selected quote each time the user clicks a button or a user can just sit back and have the quotes change for them.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link":    "https://mariahrojas.github.io/Project01_Random_Quote_Generator/",
             "github_link": "https://github.com/MariahRojas/Project01_Random_Quote_Generator",

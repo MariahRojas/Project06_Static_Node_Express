@@ -36,11 +36,11 @@ h1{
 }
 
 .button{
-  background-color: #333;
+  background-color: rgb(195, 194, 194);
 }
 
 .button:hover{
-  background-color: #111;
+  background-color: rgb(196, 17, 142);
 }
 
 a{
@@ -55,7 +55,7 @@ a:hover{
   display: inline-block;
   max-width: 100%;
   margin-bottom: 1rem;
-  border: solid 4px #ffffff;
+  border: solid 4px #050000;
   border-radius: 0;
   box-shadow: 0 0 0 1px rgba(122, 13, 13, 0.2);
   line-height: 0;
@@ -64,7 +64,7 @@ a:hover{
 .portfolio-me{
   padding: 0px;
   background: #3b003d;
-  color: #fff;
+  color: rgb(250, 250, 250);
   box-shadow: none !important;
 }
 
@@ -90,7 +90,7 @@ a:hover{
 .portfolio-breadcrumb{
   margin: 0;
   padding: 20px;
-  border-bottom: 1px solid #eaeaea;
+  border-bottom: 11px dotted #b6318e;
 }
 
  .portfolio-breadcrumb a{
@@ -153,3 +153,4 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
