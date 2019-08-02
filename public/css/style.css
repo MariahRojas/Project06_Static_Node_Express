@@ -1,10 +1,15 @@
 
-h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+h2,h3,h4,h5,p{
+  font-family: Tahoma,Verdana,Segoe,sans-serif;
 }
 
+h1{
+    font-family: Brush Script MT,cursive; 
+    letter-spacing: 2.5px;
+  }
+
   h5{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: Consolas,monaco,monospace;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -50,21 +55,21 @@ a:hover{
   display: inline-block;
   max-width: 100%;
   margin-bottom: 1rem;
-  border: solid 4px #fefefe;
+  border: solid 4px #ffffff;
   border-radius: 0;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 0 0 0 1px rgba(122, 13, 13, 0.2);
   line-height: 0;
 }
 
 .portfolio-me{
-  padding: 20px;
-  background: #121213;
+  padding: 0px;
+  background: #3b003d;
   color: #fff;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
-    font-size: 14px;
+    font-size: 17px;
     color: #999;
   }
 
