@@ -19,7 +19,7 @@
   "homepage": "https://github.com/MariahRojas/Project6_Static_Node_Express#readme",
   "keywords": [],
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pug": "^2.0.4"
   }
 }
